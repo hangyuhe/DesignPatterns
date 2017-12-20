@@ -1,4 +1,4 @@
-package com.hhy.obersver.Obserber;
+package com.hhy.obersver.Observer;
 
 /**
  * Created by hhyx5 on 2017/12/19.

@@ -1,7 +1,6 @@
-package com.hhy.obersver.Obserber;
+package com.hhy.obersver.Observer;
 
 import com.hhy.obersver.DisplayElement;
-import com.hhy.obersver.Obserber.Observer;
 import com.hhy.obersver.Subject.WeatherData;
 
 /**

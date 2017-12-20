@@ -1,8 +1,8 @@
 package com.hhy.obersver;
 
-import com.hhy.obersver.Obserber.CurrentConditionDisplay;
-import com.hhy.obersver.Obserber.ForecastDisplay;
-import com.hhy.obersver.Obserber.StatisticsDisplay;
+import com.hhy.obersver.Observer.CurrentConditionDisplay;
+import com.hhy.obersver.Observer.ForecastDisplay;
+import com.hhy.obersver.Observer.StatisticsDisplay;
 import com.hhy.obersver.Subject.WeatherData;
 
 /**
